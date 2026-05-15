@@ -1,0 +1,125 @@
+[10-May-2026 18:33:18 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:19 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:20 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:20 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:20 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:27 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:28 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:57 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:58 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:58 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:59 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:33:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:08 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:08 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:09 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:09 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:10 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:10 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:10 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:11 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:11 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:12 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:31 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:31 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:32 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:32 UTC] PHP Warning:  require(/home/systemco/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/systemco/public_html/public/index.php on line 14
+[10-May-2026 18:34:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/systemco/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/systemco/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/systemco/public_html/public/index.php on line 14

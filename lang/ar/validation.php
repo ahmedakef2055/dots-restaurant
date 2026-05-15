@@ -1,0 +1,47 @@
+<?php
+
+return [
+    'accepted' => 'يجب قبول :attribute.',
+    'array' => 'يجب أن يكون :attribute عبارة عن مصفوفة.',
+    'boolean' => 'يجب أن تكون قيمة :attribute صحيحة أو خاطئة.',
+    'date' => 'حقل :attribute ليس تاريخًا صحيحًا.',
+    'date_format' => 'لا يطابق :attribute التنسيق :format.',
+    'email' => 'يجب أن يكون :attribute بريدًا إلكترونيًا صحيحًا.',
+    'exists' => ':attribute المحدد غير صالح.',
+    'in' => 'القيمة المحددة في :attribute غير صالحة.',
+    'integer' => 'يجب أن يكون :attribute عددًا صحيحًا.',
+    'max' => [
+        'numeric' => 'يجب ألا تكون قيمة :attribute أكبر من :max.',
+        'string' => 'يجب ألا يكون :attribute أكبر من :max أحرف.',
+        'array' => 'يجب ألا يحتوي :attribute على أكثر من :max عناصر.',
+    ],
+    'min' => [
+        'numeric' => 'يجب أن تكون قيمة :attribute على الأقل :min.',
+        'string' => 'يجب أن يكون :attribute على الأقل :min أحرف.',
+        'array' => 'يجب أن يحتوي :attribute على الأقل :min عناصر.',
+    ],
+    'numeric' => 'يجب أن يكون :attribute رقمًا.',
+    'required' => ':attribute مطلوب.',
+    'string' => 'يجب أن يكون :attribute نصًا.',
+    'unique' => ':attribute مستخدم بالفعل.',
+    'after_or_equal' => 'يجب أن يكون :attribute تاريخًا بعد أو يساوي :date.',
+
+    'attributes' => [
+        'email' => 'البريد الإلكتروني',
+        'password' => 'كلمة المرور',
+        'name' => 'الاسم',
+        'code' => 'الكود',
+        'status' => 'الحالة',
+        'order_type' => 'نوع الطلب',
+        'discount_type' => 'نوع الخصم',
+        'discount_value' => 'قيمة الخصم',
+        'coupon_code' => 'كود القسيمة',
+        'quantity' => 'الكمية',
+        'unit_cost' => 'تكلفة الوحدة',
+        'supplier_id' => 'المورد',
+        'employee_id' => 'الموظف',
+        'attendance_date' => 'تاريخ الحضور',
+        'period_start' => 'بداية الفترة',
+        'period_end' => 'نهاية الفترة',
+    ],
+];
