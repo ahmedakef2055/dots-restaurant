@@ -19,7 +19,8 @@ warn() { echo -e "${YELLOW}[!]${NC} $1"; }
 
 # ── 1. Composer ──────────────────────────────────────────────
 step "Installing PHP dependencies..."
-composer install --no-dev --optimize-autoloader --quiet
+composer install --no-dev --optimize-autoloader --quiet 2>/dev/null || \
+composer update --no-dev --optimize-autoloader --quiet
 
 # ── 2. .env ──────────────────────────────────────────────────
 if [ ! -f .env ]; then
